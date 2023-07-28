@@ -1,0 +1,76 @@
+.btn{
+    background: rgb(255,123,0);
+    background: linear-gradient(90deg, rgba(255,123,0,1) 0%, rgba(255,205,122,1) 67%, rgba(122,255,240,1) 100%);
+    border: 1px solid linear-gradient(90deg, rgba(255,123,0,1) 0%, rgba(255,205,122,1) 67%, rgba(122,255,240,1) 100%);
+}
+
+.navbar-brand img {
+    width: 150px;
+    height: 80px;
+    object-fit: contain;
+}
+
+.phone-see-all{
+    text-decoration: none;
+}
+
+.new-button{
+    background: rgb(255,123,0);
+    background: linear-gradient(90deg, rgba(255,123,0,1) 0%, rgba(255,205,122,1) 67%, rgba(122,255,240,1) 100%);
+    border: 1px solid linear-gradient(90deg, rgba(255,123,0,1) 0%, rgba(255,205,122,1) 67%, rgba(122,255,240,1) 100%);
+    border-radius: 5px;
+}
+
+.new-button:hover{
+    background: rgb(161, 123, 87);
+    background: linear-gradient(90deg, rgb(139, 99, 62) 0%, rgba(255,205,122,1) 67%, rgba(122,255,240,1) 100%);
+    border: 1px solid linear-gradient(90deg, rgb(206, 129, 57) 0%, rgba(255,205,122,1) 67%, rgba(122,255,240,1) 100%);
+    border-radius: 5px;
+}
+
+.d-flex .phone-see-all{
+    color: rgb(255,123,0);
+}
+
+.card{
+    border: 0;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.card:hover{
+    box-shadow: rgba(0, 0, 0, 0.483) 0px 13px 27px -5px, rgba(0, 0, 0, 0.54) 0px 8px 16px -8px;
+}
+
+.category span{
+    display: block;
+    height: 5px;
+    width: 120px;
+    background: rgb(255,123,0);
+    margin: auto;
+    border-radius: 5px;
+}
+
+footer div .divLink{
+    margin-left: 70rem;
+}
+
+footer div li{
+    list-style: none;
+}
+
+footer div li a{
+    color: rgb(255,123,0);
+    text-decoration: none;
+    display: block;
+    padding: 8px;
+}
+
+footer div li a:hover{
+    color: wheat;
+}
+
+/* .category-box{
+
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    padding: 25px;
+} */
